@@ -29,10 +29,6 @@ function Register() {
 
     console.log("Registered user:", formData);
 
-   
-    
-
-   
     setFormData({
       firstName: "",
       lastName: "",
@@ -53,7 +49,7 @@ function Register() {
         <h1 className="text-6xl font-extrabold mb-6">
           Join <span className="text-yellow-400">ShopEase</span>
         </h1>
-        <p className="text-2xl font-light">
+        <p className="text-2xl font-light animate-bounce">
           Create your account and start shopping smart!
         </p>
       </div>

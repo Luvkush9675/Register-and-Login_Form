@@ -143,10 +143,10 @@ function Login() {
     >
       
       <div className="max-w-lg">
-        <h1 className="text-6xl font-extrabold mb-6">
+        <h1 className="text-6xl font-extrabold mb-6 ">
           Welcome Back to <span className="text-yellow-400">ShopEase</span>
         </h1>
-        <p className="text-2xl font-light">
+        <p className="text-2xl font-light animate-bounce  text-white p-4 rounded">
           Log in to continue shopping smart!
         </p>
       </div>
