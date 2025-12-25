@@ -47,10 +47,10 @@ function Register() {
    
       <div className="max-w-lg">
         <h1 className="text-6xl font-extrabold mb-6">
-          Join <span className="text-yellow-400">ShopEase</span>
+          Join <span className="text-yellow-400">My Team</span>
         </h1>
         <p className="text-2xl font-light animate-bounce">
-          Create your account and start shopping smart!
+          Create your account and start Learning & growth opportunities
         </p>
       </div>
 

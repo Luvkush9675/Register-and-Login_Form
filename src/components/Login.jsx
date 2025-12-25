@@ -141,17 +141,14 @@ function Login() {
         background: `linear-gradient(to left, rgba(0,0,0,0.7), rgba(0,0,0,0.3)), url(${BG_Image}) center/cover no-repeat`,
       }}
     >
-      
       <div className="max-w-lg">
         <h1 className="text-6xl font-extrabold mb-6 ">
-          Welcome Back to <span className="text-yellow-400">ShopEase</span>
+         LogIn <span className="text-yellow-400">My Team</span>
         </h1>
         <p className="text-2xl font-light animate-bounce  text-white p-4 rounded">
-          Log in to continue shopping smart!
+          Log in to continue And get the Big opportunities 
         </p>
       </div>
-
-     
       <div className="p-8 rounded-xl w-[400px] border border-white shadow-lg shadow-red-500 bg-white/10 backdrop-blur-md">
         <h1 className="text-center text-3xl font-semibold text-black mb-4">
           Login
